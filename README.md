@@ -59,13 +59,13 @@ http://localhost:3000/getCalculatedConsumption?startDate=202101&toDate=202205
 Clone the project
 
 ```bash
-git clone https://github.wdf.sap.corp/uas/sample-app-filtered-subaccount-cost
+git clone https://github.com/Eran-SAP/Hybrid-Cost
 ```
 
 Go to the project directory
 
 ```bash
-cd sample-app-filtered-subaccount-cost
+cd Hybrid-Cost
 ```
 
 
